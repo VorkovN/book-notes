@@ -1,7 +1,26 @@
+#include <iostream>
+#include <vector>
+
+
 //namespace
 //{
 //	int i;
 //}
+
+//struct a
+//{
+// public:
+//	int a = 1;
+//};
+//
+//class b
+//{
+// public:
+//	int b = 1;
+//};
+//
+//void fa(a a){};
+//void fb(b b){};
 
 void part1()
 {
@@ -50,6 +69,22 @@ void part1()
 //	std::cout << p[4] << std::endl;
 //	p[4] = 'e';
 //	std::cout << p[4] << std::endl;//ok
+//	int i = 'a';
+//	int* pi = &i;
+//	void* pv = pi;
+//	uint8_t* pi2 = (uint8_t*)pv;
+//	std::cout << *pi2;
+
+//	a a{ .a = 1 };
+//	b b{ .b = 1 };
+//	std::cout << a.a << b.b;
+
+//	int x = 1;
+//	int t;
+//	int y = (x+=1, t = x, t);
+//
+//	std::cout << ~(uint)0;//maxuint
+
 
 }
 
